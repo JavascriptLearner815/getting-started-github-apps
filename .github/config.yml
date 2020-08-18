@@ -3,7 +3,7 @@
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
 requestInfoReplyComment: >
-  We would appreciate it if you could provide us with more info about this issue/pr!
+  I suggest you add more information in the body of this issue/pull request. It would help the community understand it better!
 
 # Or an array:
 # requestInfoReplyComment:
